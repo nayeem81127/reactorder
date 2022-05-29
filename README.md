@@ -40,16 +40,5 @@ For more information about using Node.js on Heroku, see these Dev Center article
 
 
 
-
-
-
-
-
-https://user-images.githubusercontent.com/78078337/170317797-3fc36bce-5895-4517-9872-79ad0e7eeeaf.mp4
-
-
-
-
-
-
+https://user-images.githubusercontent.com/78078337/170887487-ee5efded-9ea3-42ed-8b53-a4a09339a590.mp4
 
